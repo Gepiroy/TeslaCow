@@ -1,0 +1,10 @@
+# IP-адрес сервера с базой данных
+host: localhost
+# Порт. 3306 - дефолтный для MySQL
+port: 3306
+# Пользователь СУБД
+user: root
+# Пароль
+password:
+# Название базы данных
+database: teslacowsbase

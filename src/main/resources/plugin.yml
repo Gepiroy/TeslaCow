@@ -1,0 +1,5 @@
+name: TeslaCow
+main: me.gepiroy.teslacow.SpigotMain
+version: 1.0
+author: Gepiroy
+api-version: 1.12

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AutoImportedSourceRoots">
+    <option name="directories">
+      <list>
+        <option value="D:\idea\mcplugins\TeslaCow/src/main/java" />
+        <option value="D:\idea\mcplugins\TeslaCow/src/main/kotlin" />
+        <option value="D:\idea\mcplugins\TeslaCow/src/test/java" />
+        <option value="D:\idea\mcplugins\TeslaCow/src/test/kotlin" />
+      </list>
+    </option>
+  </component>
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>BUNGEECORD</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+</module>
